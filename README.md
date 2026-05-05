@@ -3,6 +3,10 @@
 A lightweight Windows desktop app that monitors local ports and remote URLs, showing real-time status on a dark-themed dashboard. Get notified instantly via Windows Toast Notifications when a target goes offline.
 
 ## Quick Start
+<img width="687" height="414" alt="image" src="https://github.com/user-attachments/assets/45541e37-945d-4742-ac49-286af81484fc" />
+<img width="692" height="420" alt="image" src="https://github.com/user-attachments/assets/05a7dfe8-c658-4727-b421-2c50fe8351cc" />
+<img width="692" height="421" alt="image" src="https://github.com/user-attachments/assets/5b8c4e4a-30d6-4649-a82d-0fa902d148b9" />
+
 
 ### Option A: Run the .exe (no Python needed)
 
